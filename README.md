@@ -23,3 +23,14 @@ Key questions to answer in your analysis:
 10. The questions above are provided to guide your exploration but are not mandatory. Feel free to shape your analysis based on the story you want to tell.
 
  
+![image 1](https://github.com/user-attachments/assets/0ebac35c-ab43-4e31-b56e-659571a57a0f)
+
+
+
+
+![image 2](https://github.com/user-attachments/assets/27f7f455-bed2-43e1-b070-6cfc33964b37)
+
+
+
+![image 3](https://github.com/user-attachments/assets/1ca98602-7e4e-4b6c-af5f-9f2c1d477e1a)
+
