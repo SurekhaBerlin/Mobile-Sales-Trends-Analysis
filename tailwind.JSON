@@ -1,0 +1,20 @@
+// tailwind.config.js
+module.exports = {
+  theme: {
+    extend: {
+      colors: {
+        charcoal: {
+          DEFAULT: '#243748',
+          dark: '#2b4157',
+        },
+        indigoDye: '#314b65',
+        yinmnBlue: '#385674',
+        lapisLazuli: {
+          DEFAULT: '#3e6082',
+          light: '#456a91',
+        },
+        uclaBlue: '#4b749f',
+      },
+    },
+  },
+};
